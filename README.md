@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/houssem-eddine-bayoudha-8785921b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houssem-eddine-bayoudha-8785921b8" height="30" width="40" /></a>
 <a href="https://fb.com/houssem.bayoudha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="houssem.bayoudha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/houssem eddine bayoudha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="houssem eddine bayoudha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWK1GMjHDfNUFd9VSkgjDPg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="houssem eddine bayoudha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
