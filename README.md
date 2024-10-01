@@ -40,7 +40,7 @@ I'm a freshly graduated Machine Learning Engineer and Data Scientist with expert
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/> </a>
 <a href="https://plotly.com/" target="_blank"> <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly" width="40" height="40"/> </a>
-<a href="https://langchain.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/118276119?s=200&v=4" alt="langchain" width="40" height="40"/> </a>
+<a href="https://langchain.com/" target="_blank"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DAJFJtWIZAAC" alt="langchain" width="40" height="40"/> </a>
 </p>
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=houssemeddinebayoudha&show_icons=true&locale=en" alt="houssemeddinebayoudha" /></p>
